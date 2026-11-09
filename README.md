@@ -1,5 +1,5 @@
 # 🌌 Many-World Interpretation Time Travel Simulation
-
+<img src="https://github.com/perigustari33-sudo/Many-world-interpretation-and-timetravel/blob/main/manyWorld.jpeg"/>
 Repositori ini berisi skrip Bash sederhana (`manyWorld.sh`) yang mensimulasikan konsep **Many-World Interpretation (Interpretasi Banyak Dunia)** dalam skenario perjalanan waktu (Time Travel). Simulasi ini menggambarkan bagaimana satu tindakan perjalanan waktu dapat menciptakan percabangan realitas, menghasilkan *Doppelgänger* (kembaran), dan menghilangkan entitas asli dari garis waktu asalnya.
 
 Proyek ini terinspirasi dari diagram alur visual yang memetakan tiga kemungkinan realitas (Realitas A, X, dan Z).
@@ -40,9 +40,6 @@ Berdasarkan simulasi dan diagram, terdapat tiga garis waktu yang terbentuk:
 
 ## 📊 Diagram Alur
 
-Berikut adalah visualisasi logika yang digunakan dalam simulasi:
-
-*(Silakan unggah gambar diagram Anda ke repositori dan ganti teks di bawah ini dengan nama file gambarnya, misalnya `![Diagram Many World]([manyWorld.jpeg](https://github.com/perigustari33-sudo/Many-world-interpretation-and-timetravel/raw/main/manyWorld.jpeg)`)*
 
 ```text
        MASA LALU             SEKARANG
