@@ -42,7 +42,7 @@ Berdasarkan simulasi dan diagram, terdapat tiga garis waktu yang terbentuk:
 
 Berikut adalah visualisasi logika yang digunakan dalam simulasi:
 
-*(Silakan unggah gambar diagram Anda ke repositori dan ganti teks di bawah ini dengan nama file gambarnya, misalnya `![Diagram Many World](manyWorld.jpeg)`)*
+*(Silakan unggah gambar diagram Anda ke repositori dan ganti teks di bawah ini dengan nama file gambarnya, misalnya `![Diagram Many World]([manyWorld.jpeg](https://github.com/perigustari33-sudo/Many-world-interpretation-and-timetravel/raw/main/manyWorld.jpeg)`)*
 
 ```text
        MASA LALU             SEKARANG
