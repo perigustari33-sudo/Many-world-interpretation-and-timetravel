@@ -25,7 +25,7 @@ Berdasarkan simulasi dan diagram, terdapat tiga garis waktu yang terbentuk:
 
 *   🔴 **REALITAS Z (Garis Waktu Asal - Tempat Iwan Hilang)**
     *   Ini adalah garis waktu di mana Iwan memutuskan untuk melakukan perjalanan waktu.
-    *   Karena Iwan "melompat" keluar dari waktu ini, keberadaannya di masa kini **hilang (SAYA HILANG)**.
+    *   Karena Iwan "melompat" keluar dari waktu ini, keberadaannya di masa kini **hilang (Iwan HILANG)**.
     *   Garis waktu ini menjadi "rusak" atau berakhir untuk Iwan (ditandai dengan garis merah bergelombang pada diagram).
     *   *Status: Iwan menghilang dari realitas ini.*
 
@@ -46,11 +46,11 @@ Berdasarkan simulasi dan diagram, terdapat tiga garis waktu yang terbentuk:
          |                     |
 REALITAS A --------------------+-------> (TIDAK MELAKUKAN TIME TRAVEL)
          |                     |
-         |                     |         X1 SAYA (DOPPELGÄNGER)
-REALITAS X --------------------+========> (SAYA MASUK KE BUS)
-         |                  /  |         X2 SAYA (DOPPELGÄNGER KARENA TIME TRAVEL)
+         |                     |         X1 Iwan (DOPPELGÄNGER)
+REALITAS X --------------------+========> (Iwan MASUK KE BUS)
+         |                  /  |         X2 Iwan (DOPPELGÄNGER KARENA TIME TRAVEL)
          |            JUMP   /   |
          |          TIME    /    |
          |        TRAVEL   /     |
-REALITAS Z ----------------X------X----> (SAYA HILANG)
+REALITAS Z ----------------X------X----> (Iwan HILANG)
          |                     |
